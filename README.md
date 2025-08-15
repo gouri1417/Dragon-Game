@@ -69,6 +69,6 @@ Before running the game, make sure you have:
 ### Installation Steps
 1. **Clone the Repository**
 
-   Clone the Repository: git clone https://github.com/grishma-gedela/Snake-Game.git
+   Clone the Repository: git clone https://github.com/gouri1417/Dragon-Game.git
 
 
